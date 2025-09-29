@@ -1,0 +1,19 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "framework": "vite",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ],
+  "env": {
+    "VITE_API_URL": "@api_url",
+    "VITE_PINATA_API_KEY": "@pinata_api_key",
+    "VITE_PINATA_SECRET_KEY": "@pinata_secret_key",
+    "VITE_WEB3_RPC_URL": "@web3_rpc_url",
+    "VITE_CONTRACT_ADDRESS": "@contract_address",
+    "VITE_MARKETPLACE_ADDRESS": "@marketplace_address"
+  }
+}

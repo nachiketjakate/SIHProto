@@ -1,0 +1,39 @@
+{"code":"","details":"TypeError: fetch failed\n    at node:internal/deps/undici/undici:13510:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async startServer (file:///C:/Users/HP/blue-carbon-registry/backend/server.js:157:29)","hint":"","level":"error","message":"Failed to connect to Supabase: TypeError: fetch failed","service":"blue-carbon-registry-api","timestamp":"2025-09-30 02:17:30"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"blue-carbon-registry-api","timestamp":"2025-09-30 02:17:30"}
+{"code":"","details":"TypeError: fetch failed\n    at node:internal/deps/undici/undici:13510:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async startServer (file:///C:/Users/HP/blue-carbon-registry/backend/server.js:157:29)","hint":"","level":"error","message":"Failed to connect to Supabase: TypeError: fetch failed","service":"blue-carbon-registry-api","timestamp":"2025-09-30 03:09:35"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"blue-carbon-registry-api","timestamp":"2025-09-30 03:09:35"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","service":"blue-carbon-registry-api","timestamp":"2025-09-30 03:09:45"}
+{"code":"","details":"TypeError: fetch failed\n    at node:internal/deps/undici/undici:13510:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async startServer (file:///C:/Users/HP/blue-carbon-registry/backend/server.js:157:29)","hint":"","level":"error","message":"Failed to connect to Supabase: TypeError: fetch failed","service":"blue-carbon-registry-api","timestamp":"2025-09-30 03:10:13"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"blue-carbon-registry-api","timestamp":"2025-09-30 03:10:13"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","service":"blue-carbon-registry-api","timestamp":"2025-09-30 03:10:26"}
+{"level":"warn","message":"Supabase connection failed - running in DEMO MODE with in-memory storage","service":"blue-carbon-registry-api","timestamp":"2025-09-30 03:12:36"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"blue-carbon-registry-api","timestamp":"2025-09-30 03:12:36"}
+{"level":"info","message":"API endpoints available:","service":"blue-carbon-registry-api","timestamp":"2025-09-30 03:12:36"}
+{"level":"info","message":"  - POST /api/auth/register","service":"blue-carbon-registry-api","timestamp":"2025-09-30 03:12:36"}
+{"level":"info","message":"  - POST /api/auth/login","service":"blue-carbon-registry-api","timestamp":"2025-09-30 03:12:36"}
+{"level":"info","message":"  - GET  /api/auth/me","service":"blue-carbon-registry-api","timestamp":"2025-09-30 03:12:36"}
+{"level":"info","message":"  - GET  /health","service":"blue-carbon-registry-api","timestamp":"2025-09-30 03:12:36"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","service":"blue-carbon-registry-api","timestamp":"2025-09-30 03:13:31"}
+{"level":"warn","message":"Supabase connection failed - running in DEMO MODE with in-memory storage","service":"blue-carbon-registry-api","timestamp":"2025-09-30 03:15:39"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"blue-carbon-registry-api","timestamp":"2025-09-30 03:15:39"}
+{"level":"info","message":"API endpoints available:","service":"blue-carbon-registry-api","timestamp":"2025-09-30 03:15:39"}
+{"level":"info","message":"  - POST /api/auth/register","service":"blue-carbon-registry-api","timestamp":"2025-09-30 03:15:39"}
+{"level":"info","message":"  - POST /api/auth/login","service":"blue-carbon-registry-api","timestamp":"2025-09-30 03:15:39"}
+{"level":"info","message":"  - GET  /api/auth/me","service":"blue-carbon-registry-api","timestamp":"2025-09-30 03:15:39"}
+{"level":"info","message":"  - GET  /health","service":"blue-carbon-registry-api","timestamp":"2025-09-30 03:15:39"}
+{"level":"warn","message":"Supabase connection failed - running in DEMO MODE with in-memory storage","service":"blue-carbon-registry-api","timestamp":"2025-09-30 03:22:30"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"blue-carbon-registry-api","timestamp":"2025-09-30 03:22:30"}
+{"level":"info","message":"API endpoints available:","service":"blue-carbon-registry-api","timestamp":"2025-09-30 03:22:30"}
+{"level":"info","message":"  - POST /api/auth/register","service":"blue-carbon-registry-api","timestamp":"2025-09-30 03:22:30"}
+{"level":"info","message":"  - POST /api/auth/login","service":"blue-carbon-registry-api","timestamp":"2025-09-30 03:22:30"}
+{"level":"info","message":"  - GET  /api/auth/me","service":"blue-carbon-registry-api","timestamp":"2025-09-30 03:22:30"}
+{"level":"info","message":"  - GET  /health","service":"blue-carbon-registry-api","timestamp":"2025-09-30 03:22:30"}
+{"level":"info","message":"User registered: jakate.nachiket@gmail.com with role: developer","service":"blue-carbon-registry-api","timestamp":"2025-09-30 03:22:58"}
+{"level":"warn","message":"Supabase connection failed - running in DEMO MODE with in-memory storage","service":"blue-carbon-registry-api","timestamp":"2025-09-30 03:38:24"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"blue-carbon-registry-api","timestamp":"2025-09-30 03:38:24"}
+{"level":"info","message":"API endpoints available:","service":"blue-carbon-registry-api","timestamp":"2025-09-30 03:38:24"}
+{"level":"info","message":"  - POST /api/auth/register","service":"blue-carbon-registry-api","timestamp":"2025-09-30 03:38:24"}
+{"level":"info","message":"  - POST /api/auth/login","service":"blue-carbon-registry-api","timestamp":"2025-09-30 03:38:24"}
+{"level":"info","message":"  - GET  /api/auth/me","service":"blue-carbon-registry-api","timestamp":"2025-09-30 03:38:24"}
+{"level":"info","message":"  - GET  /health","service":"blue-carbon-registry-api","timestamp":"2025-09-30 03:38:24"}
+{"level":"info","message":"User registered: jakate.nachiket@gmail.com with role: developer","service":"blue-carbon-registry-api","timestamp":"2025-09-30 03:39:20"}
